@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"5190039000025317521",
+		"product_id":"736430079244709798",
+		"client_id":"500026267689562496",
+		"client_secret":"3FAE43ACA8CEB251B0554F1838F2D3BF5D89C3313FF5E3AD1A523092BE8DACE0",
+		"project_id":"736430079244709798",
+		"app_id":"103318493",
+		"api_key":"CgB6e3x9rUTOwBkbPmloje13j5pelI+6Q5t1+ErZdVQqHXQ7D6SvI0S63r3HPNrMp/DCQlB49ppwrhwbnSRBNHLw",
+		"package_name":"com.federicoparezzan.huawei_location_meetup"
+	},
+	"configuration_version":"1.0"
+}
