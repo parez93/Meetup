@@ -22,3 +22,11 @@ Data: 17/12/2020
 In collaborazione con *[The Communities Bay](https://thecmmbay.com/)*
 
 Link evento: https://www.eventbrite.it/e/biglietti-lets-go-flutter-1-introduzione-a-dart-corso-online-gratuito-thecmmbay-130727598767?aff=erelpanelorg#
+
+
+## 4. Let's go Flutter - 2. Introduzione a Flutter
+Data: 20/01/2021
+
+In collaborazione con *[The Communities Bay](https://thecmmbay.com/)*
+
+Link evento: https://www.eventbrite.it/e/biglietti-lets-go-flutter-2-introduzione-a-flutter-corso-online-free-thecmmbay-135432477185#
