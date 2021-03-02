@@ -27,6 +27,14 @@ Link evento: https://www.eventbrite.it/e/biglietti-lets-go-flutter-1-introduzion
 ## 4. Let's go Flutter - 2. Introduzione a Flutter
 Data: 20/01/2021
 
-In collaborazione con *[The Communities Bay](https://thecmmbay.com/)*
+In collaborazione con *[The Communities Bay](https://thecmmbay.com/)* e *[Sviluppatori Flutter](https://www.linkedin.com/groups/9017108/)*
 
 Link evento: https://www.eventbrite.it/e/biglietti-lets-go-flutter-2-introduzione-a-flutter-corso-online-free-thecmmbay-135432477185#
+
+
+## 5. Let's go Flutter - 3. Gotta catch' em all Widgets
+Data: 26/02/2021
+
+In collaborazione con *[The Communities Bay](https://thecmmbay.com/)*, *[Sviluppatori Flutter](https://www.linkedin.com/groups/9017108/)* e *[HDG Italia – HUAWEI Developer Group Italia](https://meetup.com/HDG-Italia)*
+
+Link evento: https://www.eventbrite.it/e/biglietti-lets-go-flutter-3-gotta-catchem-all-widgets-corso-free-thecmmbay-141600126791
