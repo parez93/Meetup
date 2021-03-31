@@ -40,7 +40,7 @@ In collaborazione con *[The Communities Bay](https://thecmmbay.com/)*, *[Svilupp
 Link evento: https://www.eventbrite.it/e/biglietti-lets-go-flutter-3-gotta-catchem-all-widgets-corso-free-thecmmbay-141600126791
 
 
-## 5. Flutter 2.0 Rewind
+## 6. Flutter 2.0 Rewind
 Data: 26/03/2021
 
 In collaborazione con *[The Communities Bay](https://thecmmbay.com/)*, *[Sviluppatori Flutter](https://www.linkedin.com/groups/9017108/)* e *[HDG Italia – HUAWEI Developer Group Italia](https://meetup.com/HDG-Italia)*
