@@ -51,6 +51,6 @@ Link evento: https://www.eventbrite.it/e/biglietti-flutter-2-rewindsviluppatori-
 ## 7. Dev Community Night ‘21 #4・Come sviluppare in Flutter: Be a Talent Flutter!
 Data: 14/04/2021
 
-In collaborazione con *[Talent Garden](https://talentgarden.org/it/)
+In collaborazione con *[Talent Garden](https://talentgarden.org/it/)*
 
 Link evento: https://www.eventbrite.com/e/biglietti-come-sviluppare-in-flutter-be-a-talent-flutter-146379572241#
