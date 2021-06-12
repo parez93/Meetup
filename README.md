@@ -54,3 +54,11 @@ Data: 14/04/2021
 In collaborazione con *[Talent Garden](https://talentgarden.org/it/)*
 
 Link evento: https://www.eventbrite.com/e/biglietti-come-sviluppare-in-flutter-be-a-talent-flutter-146379572241#
+
+
+## 8. Notifiche Push con Flutter e Push Kit
+Data: 04/06/2021
+
+In collaborazione con *[HDG Italia](https://meetup.com/HDG-Italia/)*
+
+Link evento: https://www.eventbrite.it/e/biglietti-notifiche-push-con-flutter-e-push-kitmeetup-hdg-italia-6-154676338091#
