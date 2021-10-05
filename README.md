@@ -62,3 +62,12 @@ Data: 04/06/2021
 In collaborazione con *[HDG Italia](https://meetup.com/HDG-Italia/)*
 
 Link evento: https://www.eventbrite.it/e/biglietti-notifiche-push-con-flutter-e-push-kitmeetup-hdg-italia-6-154676338091#
+
+
+
+## 9.  Servizi Huawei o Google? Identifichiamoli con Flutter
+Data: 30/09/2021
+
+In collaborazione con *[HDG Italia](https://meetup.com/HDG-Italia/)*
+
+Link evento: https://www.eventbrite.it/e/biglietti-servizi-huawei-o-google-identifichiamoli-con-fluttermeetup-hdg-italia-8-177835469677#
