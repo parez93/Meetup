@@ -71,3 +71,27 @@ Data: 30/09/2021
 In collaborazione con *[HDG Italia](https://meetup.com/HDG-Italia/)*
 
 Link evento: https://www.eventbrite.it/e/biglietti-servizi-huawei-o-google-identifichiamoli-con-fluttermeetup-hdg-italia-8-177835469677#
+
+
+## 10. Let's go Flutter - 4. Navighiamo in nuove schermate
+Data: 26/11/2021
+
+In collaborazione con *[The Communities Bay](https://thecmmbay.com/)*, *[Sviluppatori Flutter](https://www.linkedin.com/groups/9017108/)* e *[HDG Italia – HUAWEI Developer Group Italia](https://meetup.com/HDG-Italia)*
+
+Link evento: https://www.eventbrite.it/e/biglietti-lets-go-flutter-4-navighiamo-in-nuove-schermate-corso-free-thecmmbay-204164289887
+
+
+## 11. Let's go Flutter - 5. POST api/chiamate_http
+Data: 03/12/2021
+
+In collaborazione con *[The Communities Bay](https://thecmmbay.com/)*, *[Sviluppatori Flutter](https://www.linkedin.com/groups/9017108/)* e *[HDG Italia – HUAWEI Developer Group Italia](https://meetup.com/HDG-Italia)*
+
+Link evento: https://www.eventbrite.it/e/biglietti-lets-go-flutter-5-post-apichiamate-http-corso-free-thecmmbay-204179505397
+
+
+## 12. Let's go Flutter - 6. E' tempo di stato!
+Data: 10/12/2021
+
+In collaborazione con *[The Communities Bay](https://thecmmbay.com/)*, *[Sviluppatori Flutter](https://www.linkedin.com/groups/9017108/)* e *[HDG Italia – HUAWEI Developer Group Italia](https://meetup.com/HDG-Italia)*
+
+Link evento: https://www.eventbrite.it/e/biglietti-lets-go-flutter-6-e-tempo-di-stato-corso-free-thecmmbay-204181551517
