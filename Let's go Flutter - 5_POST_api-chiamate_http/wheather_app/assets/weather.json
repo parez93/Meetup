@@ -1,0 +1,13 @@
+{
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "id": 420006353,
+  "name": "Mountain View",
+  "cod": 200
+}
