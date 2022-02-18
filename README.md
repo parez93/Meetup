@@ -95,3 +95,11 @@ Data: 10/12/2021
 In collaborazione con *[The Communities Bay](https://thecmmbay.com/)*, *[Sviluppatori Flutter](https://www.linkedin.com/groups/9017108/)* e *[HDG Italia – HUAWEI Developer Group Italia](https://meetup.com/HDG-Italia)*
 
 Link evento: https://www.eventbrite.it/e/biglietti-lets-go-flutter-6-e-tempo-di-stato-corso-free-thecmmbay-204181551517
+
+
+## 13. DateTime migliori con Java 8
+Data: 17/02/2022
+
+In collaborazione con *[Dev WorkSpace](https://devworkspace.dev/)* e *[The Communities Bay](https://thecmmbay.com/)*
+
+Link evento: https://www.eventbrite.it/e/biglietti-datetime-migliori-con-java-8dev-workspace-meetup-262452722157#
