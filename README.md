@@ -103,3 +103,19 @@ Data: 17/02/2022
 In collaborazione con *[Dev WorkSpace](https://devworkspace.dev/)* e *[The Communities Bay](https://thecmmbay.com/)*
 
 Link evento: https://www.eventbrite.it/e/biglietti-datetime-migliori-con-java-8dev-workspace-meetup-262452722157#
+
+## 14. Web 3.0: Extended reality
+Data: -
+
+In collaborazione con -
+
+Link evento: -
+
+## 15. Responsive design in Flutter
+Data 1: -
+Data 2: -
+
+In collaborazione con -
+
+Link evento 1: -
+Link evento 2: -
